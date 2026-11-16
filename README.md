@@ -1,10 +1,10 @@
 # Dallas Jobs
 
-Open roles in Dallas: 52 roles at 30 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-15.
+Open roles in Dallas: 51 roles at 30 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-16.
 
-All 52 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
+All 51 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
 
-**By role:** Software Engineering (2) · Data (1) · Design (1) · Marketing (1) · Sales (5) · Customer Success (2) · Operations (4) · Finance (7) · Legal & Compliance (1) · Other (28)
+**By role:** Software Engineering (2) · Data (1) · Design (1) · Marketing (1) · Sales (5) · Customer Success (2) · Operations (4) · Finance (7) · Legal & Compliance (1) · Other (27)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Dallas. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -79,7 +79,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=dallas) | Insurance Compliance &amp; Regulatory Senior Lead | Dallas, Texas | Nov 13 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/c1d8b2be-6333-493a-9a16-a6d076ccb5c2) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-compliance-and-regulatory-senior-lead-01ccce26-38cc-4759-acbd-4f8aa4f58031?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Other (28)
+## Other (27)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -110,4 +110,3 @@ A bad listing? Email hello@warmada.com with the link.
 | EPIC Brokers | Commercial Insurance Client Executive - Construction | 1117 17th Avenue South, Nashville, TN 37212; 125 S Wacker Dr, Suite 3150, Chicago, IL 60606; 14881 Quorum Drive Suite 850, Dallas, TX 75254; 2720 3rd Avenue South Suite 100, Birmingham, AL 35233; 5909 Peachtree Dunwoody Rd Bldg D Ste 800, Atlanta, GA 30328 | Nov 4 | [Apply](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8929854002) · [Find the hiring manager](https://warmada.com/job/epic-brokers-commercial-insurance-client-executive-construction-57ee66d5-0d5b-4276-97d5-1dd73b1dacb3?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Cortland](https://warmada.com/companies/cortland?utm_source=github&utm_medium=list&utm_campaign=dallas) | Front Door Waste Technician-West Plano | Dallas, TX | Nov 3 | [Apply](https://job-boards.greenhouse.io/cortland/jobs/4475858009) · [Find the hiring manager](https://warmada.com/job/cortland-front-door-waste-technician-west-plano-8fa33a42-a5c8-4453-9270-f8baeb8e425a?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=dallas) | Salesforce Administrator | Dallas, TX | Nov 2 | [Apply](https://coreweave.com/careers/job?4725561006&board=coreweave&gh_jid=4725561006) · [Find the hiring manager](https://warmada.com/job/coreweave-salesforce-administrator-4f213f34-e976-4bbd-8443-807c4aae33ef?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=dallas) | Carpenter | Dallas, TX | Nov 2 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8335454) · [Find the hiring manager](https://warmada.com/job/equipmentshare-carpenter-6cdca570-80c9-44f1-89e6-8d43e1dd3f6c?utm_source=github&utm_medium=list&utm_campaign=dallas) |
