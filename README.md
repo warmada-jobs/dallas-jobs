@@ -1,10 +1,10 @@
 # Dallas Jobs
 
-Open roles in Dallas: 55 roles at 31 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-21.
+Open roles in Dallas: 56 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-22.
 
-All 55 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
+All 56 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
 
-**By role:** Software Engineering (4) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (8) · Customer Success (2) · Operations (7) · Finance (10) · HR & Recruiting (1) · Legal & Compliance (1) · Other (19)
+**By role:** Software Engineering (4) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (9) · Customer Success (2) · Operations (7) · Finance (10) · HR & Recruiting (1) · Legal & Compliance (1) · Other (19)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Dallas. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -37,13 +37,14 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=dallas) | Manager, Field Marketing (Americas Industries) | Dallas, Texas, United States | Nov 20 | [Apply](https://www.qualtrics.com/careers/us/en/job/8403481?gh_jid=8403481) · [Find the hiring manager](https://warmada.com/job/qualtrics-manager-field-marketing-americas-industries-8c8e4793-02c6-4770-8814-d1bc3afb7c94?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Sales (8)
+## Sales (9)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=dallas) | District Partnership Specialist, Dallas | Dallas, TX | Nov 20 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8957502002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-district-partnership-specialist-dallas-52a0e620-c745-4cb5-aadc-c3c01a8c7673?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=dallas) | HP Retail Sales Specialist | Dallas, TX | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Dallas-TX/HP-Retail-Sales-Specialist_REQ_117046) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-specialist-91b51c6b-e572-415d-80bf-aad5704b5529?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=dallas) | Retail Sales Associate | Dallas, TX | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Dallas-TX/Retail-Sales-Associate_REQ_117114) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-retail-sales-associate-8df9e7c1-7561-4551-a2c9-c4a8067e71b0?utm_source=github&utm_medium=list&utm_campaign=dallas) |
+| [Rewards Network](https://warmada.com/companies/rewards-network?utm_source=github&utm_medium=list&utm_campaign=dallas) | Sales Account Executive (Dallas,TX) | Dallas, TX | Nov 18 | [Apply](https://job-boards.greenhouse.io/rewardsnetwork/jobs/5286798007) · [Find the hiring manager](https://warmada.com/job/rewards-network-sales-account-executive-dallas-tx-86571ade-90a5-4451-872c-f1a3d3252035?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Jetson Home](https://warmada.com/companies/jetson-home?utm_source=github&utm_medium=list&utm_campaign=dallas) | Inside Sales Representative | Dallas, TX | Nov 17 | [Apply](https://job-boards.greenhouse.io/jetsonhome/jobs/4511382009?gh_jid=4511382009) · [Find the hiring manager](https://warmada.com/job/jetson-home-inside-sales-representative-5bea3aaf-11ae-4168-bf1b-31eb47de0d48?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=dallas) | Strategic Core Account Executive- Oil &amp; Gas | Austin, Texas; Dallas, Texas; Houston, Texas; United States | Nov 17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002) · [Find the hiring manager](https://warmada.com/job/databricks-strategic-core-account-executive-oil-and-gas-73fe24ef-8648-43b4-850b-8034f04fc8f1?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [DISCO](https://warmada.com/companies/disco?utm_source=github&utm_medium=list&utm_campaign=dallas) | Regional Sales Executive, Dallas | Remote, Dallas, TX | Nov 12 | [Apply](https://www.csdisco.com/careers-listing?gh_jid=8939653002) · [Find the hiring manager](https://warmada.com/job/disco-regional-sales-executive-dallas-c37c82df-c1ae-494a-9bc3-3c4bca8ee7a5?utm_source=github&utm_medium=list&utm_campaign=dallas) |
