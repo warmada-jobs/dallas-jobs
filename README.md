@@ -1,10 +1,10 @@
 # Dallas Jobs
 
-Open roles in Dallas: 53 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-23.
+Open roles in Dallas: 52 roles at 29 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-24.
 
-All 53 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
+All 52 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
 
-**By role:** Software Engineering (4) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (9) · Customer Success (2) · Operations (7) · Finance (10) · HR & Recruiting (1) · Legal & Compliance (1) · Other (16)
+**By role:** Software Engineering (4) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (9) · Customer Success (1) · Operations (5) · Finance (10) · HR & Recruiting (2) · Legal & Compliance (1) · Other (17)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Dallas. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -41,6 +41,8 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| memoryBlue | Account Executive - Texas | Austin, TX; Dallas, TX | Nov 23 | [Apply](https://memoryblue.com/jobs/4731779006?gh_jid=4731779006) · [Find the hiring manager](https://warmada.com/job/memoryblue-account-executive-texas-7ca36e0f-6ea8-4094-a29b-072be7de6667?utm_source=github&utm_medium=list&utm_campaign=dallas) |
+| [Harness](https://warmada.com/companies/harness?utm_source=github&utm_medium=list&utm_campaign=dallas) | Regional Partner Sales Manager | Dallas, Texas, United States | Nov 23 | [Apply](https://www.harness.io/company/jobs/apply?gh_jid=5300836007&gh_jid=5300836007) · [Find the hiring manager](https://warmada.com/job/harness-regional-partner-sales-manager-277a1aad-6f66-4a10-9ce5-85df7033e4d9?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=dallas) | District Partnership Specialist, Dallas | Dallas, TX | Nov 20 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8957502002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-district-partnership-specialist-dallas-52a0e620-c745-4cb5-aadc-c3c01a8c7673?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=dallas) | HP Retail Sales Specialist | Dallas, TX | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Dallas-TX/HP-Retail-Sales-Specialist_REQ_117046) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-specialist-91b51c6b-e572-415d-80bf-aad5704b5529?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=dallas) | Retail Sales Associate | Dallas, TX | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Dallas-TX/Retail-Sales-Associate_REQ_117114) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-retail-sales-associate-8df9e7c1-7561-4551-a2c9-c4a8067e71b0?utm_source=github&utm_medium=list&utm_campaign=dallas) |
@@ -48,17 +50,14 @@ A bad listing? Email hello@warmada.com with the link.
 | [Jetson Home](https://warmada.com/companies/jetson-home?utm_source=github&utm_medium=list&utm_campaign=dallas) | Inside Sales Representative | Dallas, TX | Nov 17 | [Apply](https://job-boards.greenhouse.io/jetsonhome/jobs/4511382009?gh_jid=4511382009) · [Find the hiring manager](https://warmada.com/job/jetson-home-inside-sales-representative-5bea3aaf-11ae-4168-bf1b-31eb47de0d48?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=dallas) | Strategic Core Account Executive- Oil &amp; Gas | Austin, Texas; Dallas, Texas; Houston, Texas; United States | Nov 17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002) · [Find the hiring manager](https://warmada.com/job/databricks-strategic-core-account-executive-oil-and-gas-73fe24ef-8648-43b4-850b-8034f04fc8f1?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [DISCO](https://warmada.com/companies/disco?utm_source=github&utm_medium=list&utm_campaign=dallas) | Regional Sales Executive, Dallas | Remote, Dallas, TX | Nov 12 | [Apply](https://www.csdisco.com/careers-listing?gh_jid=8939653002) · [Find the hiring manager](https://warmada.com/job/disco-regional-sales-executive-dallas-c37c82df-c1ae-494a-9bc3-3c4bca8ee7a5?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [Heartflow](https://warmada.com/companies/heartflow?utm_source=github&utm_medium=list&utm_campaign=dallas) | Territory Account Manager - Dallas, TX | Dallas, TX | Nov 9 | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6253675004) · [Find the hiring manager](https://warmada.com/job/heartflow-territory-account-manager-dallas-tx-bfc08de1-228e-4f6c-9316-fae239e4b87c?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| Parachute Health | Clinical Account Executive | Dallas, Texas, United States | Nov 9 | [Apply](https://job-boards.greenhouse.io/parachutehealth/jobs/5290119007) · [Find the hiring manager](https://warmada.com/job/parachute-health-clinical-account-executive-7d1f9c7d-e462-4de0-b13e-5e5b0b89f92c?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Customer Success (2)
+## Customer Success (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=dallas) | Customer Support Team Lead, Insurance | Dallas, Texas | Nov 20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/c462d2ed-1b1e-4413-95bf-b62d9fb91486) · [Find the hiring manager](https://warmada.com/job/jerry-ai-customer-support-team-lead-insurance-a16244e8-df66-433b-bf70-5c7cca6edbf6?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Harness](https://warmada.com/companies/harness?utm_source=github&utm_medium=list&utm_campaign=dallas) | IT Support Specialist II | Dallas, Texas, United States | Nov 16 | [Apply](https://www.harness.io/company/jobs/apply?gh_jid=5292891007&gh_jid=5292891007) · [Find the hiring manager](https://warmada.com/job/harness-it-support-specialist-ii-a967ccbb-dc58-4e5b-a7ff-f757275250ab?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Operations (7)
+## Operations (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -67,8 +66,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=dallas) | Senior Analyst, Accounting Enablement | Dallas, TX | Nov 18 | [Apply](https://coreweave.com/careers/job?4730689006&board=coreweave&gh_jid=4730689006) · [Find the hiring manager](https://warmada.com/job/coreweave-senior-analyst-accounting-enablement-5d5f4772-e4a9-4851-afc0-bd5bf58eb662?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Mullins Mechanical](https://warmada.com/companies/mullins-mechanical?utm_source=github&utm_medium=list&utm_campaign=dallas) | Procurement Specialist - Dallas, TX | Dallas, TX; Dallas-Fort Worth, TX | Nov 16 | [Apply](https://mullins-mechanical.com/careers/?gh_jid=5483854008) · [Find the hiring manager](https://warmada.com/job/mullins-mechanical-procurement-specialist-dallas-tx-6a4d32e7-15ef-465a-ba5f-0e912f00e761?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Galaxy](https://warmada.com/companies/galaxy?utm_source=github&utm_medium=list&utm_campaign=dallas) | Procurement Manager | Dallas, TX | Nov 10 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6254630004) · [Find the hiring manager](https://warmada.com/job/galaxy-procurement-manager-a0fb98e0-5c5a-4f33-8b30-759e778e70a9?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| CivicMarketplace | Procurement Buyer | Dallas, Texas, USA | Nov 10 | [Apply](https://jobs.ashbyhq.com/civicmarketplace/dd38e741-2527-4244-9cae-d99d594c0db5) · [Find the hiring manager](https://warmada.com/job/civicmarketplace-procurement-buyer-ab6211de-6725-465c-88fb-d821c4a3c83b?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [OpenLoop Health](https://warmada.com/companies/openloop-health?utm_source=github&utm_medium=list&utm_campaign=dallas) | Procurement Specialist | Dallas, TX - HQ | Nov 10 | [Apply](https://jobs.ashbyhq.com/openloophealth/602c2461-0943-4b9f-a3d7-7ff2c597bf7c) · [Find the hiring manager](https://warmada.com/job/openloop-health-procurement-specialist-4dd08fd8-18dd-46b9-b3bb-be0c1a46d251?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
 ## Finance (10)
 
@@ -85,10 +82,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Mullins Mechanical](https://warmada.com/companies/mullins-mechanical?utm_source=github&utm_medium=list&utm_campaign=dallas) | Construction Project Accountant - Dallas, TX | Dallas, TX; Dallas-Fort Worth, TX | Nov 11 | [Apply](https://mullins-mechanical.com/careers/?gh_jid=5479445008) · [Find the hiring manager](https://warmada.com/job/mullins-mechanical-construction-project-accountant-dallas-tx-ffdfef44-8dcd-4125-ad94-f73705a77222?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Mullins Mechanical](https://warmada.com/companies/mullins-mechanical?utm_source=github&utm_medium=list&utm_campaign=dallas) | Project Accountant (Construction) - Dallas, Texas | Dallas, TX; Dallas-Fort Worth, TX | Nov 11 | [Apply](https://mullins-mechanical.com/careers/?gh_jid=5479433008) · [Find the hiring manager](https://warmada.com/job/mullins-mechanical-project-accountant-construction-dallas-texas-14e2845b-abc4-4cf6-b4d2-588db5e86d0d?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## HR & Recruiting (1)
+## HR & Recruiting (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=dallas) | Associate Recruiter | Dallas, Texas, United States | Nov 23 | [Apply](https://www.qualtrics.com/careers/us/en/job/8399368?gh_jid=8399368) · [Find the hiring manager](https://warmada.com/job/qualtrics-associate-recruiter-2e6b9580-faff-465d-89bd-21a87ddae979?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Mullins Mechanical](https://warmada.com/companies/mullins-mechanical?utm_source=github&utm_medium=list&utm_campaign=dallas) | Human Resources Business Partner - Dallas, TX | Dallas, TX | Nov 17 | [Apply](https://mullins-mechanical.com/careers/?gh_jid=5485003008) · [Find the hiring manager](https://warmada.com/job/mullins-mechanical-human-resources-business-partner-dallas-tx-ad249cbd-d6fc-4284-97d4-ff1b450c7b7d?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
 ## Legal & Compliance (1)
@@ -97,10 +95,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=dallas) | Senior Counsel, Commercial Leasing and Real Estate | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX | Nov 17 | [Apply](https://coreweave.com/careers/job?4728693006&board=coreweave&gh_jid=4728693006) · [Find the hiring manager](https://warmada.com/job/coreweave-senior-counsel-commercial-leasing-and-real-estate-f30090a7-9d6d-4b85-b19c-c61683f9bd8c?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Other (16)
+## Other (17)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=dallas) | Customer Service Supervisor, Insurance (Remote) | Dallas, Texas | Nov 23 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/43e8c3e0-9677-4299-8a49-56b7f6a61c4f) · [Find the hiring manager](https://warmada.com/job/jerry-ai-customer-service-supervisor-insurance-remote-4ba7f6e7-dec1-4896-b489-5d6022d0ae24?utm_source=github&utm_medium=list&utm_campaign=dallas) |
+| [Datavant](https://warmada.com/companies/datavant?utm_source=github&utm_medium=list&utm_campaign=dallas) | Chart Retrieval Specialist - Dallas TX | Hybrid - Dallas | Nov 23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5486687008) · [Find the hiring manager](https://warmada.com/job/datavant-chart-retrieval-specialist-dallas-tx-d8383cdf-6bed-4210-9a7f-71ba754724d6?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=dallas) | Clinical Field Specialist | Dallas, TX | Nov 20 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6264740004) · [Find the hiring manager](https://warmada.com/job/natera-clinical-field-specialist-951035f8-4b1f-44e5-948b-d57e37ec2edc?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Figure](https://warmada.com/companies/figure?utm_source=github&utm_medium=list&utm_campaign=dallas) | Team Manager | Dallas, TX | Nov 20 | [Apply](https://job-boards.greenhouse.io/figure/jobs/8951011002) · [Find the hiring manager](https://warmada.com/job/figure-team-manager-59b020a4-da14-4627-be67-47df1c74cfbe?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | Inshur | Licensing Coordinator | Dallas | Nov 20 | [Apply](https://jobs.ashbyhq.com/inshur/342d1da1-b4e5-450c-9d78-47c112c829d3) · [Find the hiring manager](https://warmada.com/job/inshur-licensing-coordinator-ebea4477-5ed5-4744-b9a9-0935b044020f?utm_source=github&utm_medium=list&utm_campaign=dallas) |
@@ -116,4 +116,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Roofstock](https://warmada.com/companies/roofstock?utm_source=github&utm_medium=list&utm_campaign=dallas) | Team Lead, Maintenance | Dallas, Texas, United States | Nov 11 | [Apply](https://job-boards.greenhouse.io/roofstock/jobs/8936811002) · [Find the hiring manager](https://warmada.com/job/roofstock-team-lead-maintenance-c5c3b190-6427-4e34-bd1e-f8eb566ba722?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=dallas) | Wealth Advisor (Dallas Fort-Worth) | Dallas - Park Cities | Nov 11 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5438336008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-wealth-advisor-dallas-fort-worth-51a2e473-605b-4445-b6aa-174abb4e8ef2?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [Roofstock](https://warmada.com/companies/roofstock?utm_source=github&utm_medium=list&utm_campaign=dallas) | Construction Specialist | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Dallas, Texas, United States; Houston, Texas, United States; Las Vegas, Nevada, United States; Phoenix, Arizona, United States; Tampa, Florida, United States | Nov 10 | [Apply](https://job-boards.greenhouse.io/roofstock/jobs/8936265002) · [Find the hiring manager](https://warmada.com/job/roofstock-construction-specialist-2e544c6c-2998-49fc-ab38-d348a30a86a5?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [Pariveda](https://warmada.com/companies/pariveda?utm_source=github&utm_medium=list&utm_campaign=dallas) | Employee Experience Specialist | Dallas | Nov 10 | [Apply](https://jobs.ashbyhq.com/pariveda/8755a337-0e77-44b2-83fe-8c455919d642) · [Find the hiring manager](https://warmada.com/job/pariveda-employee-experience-specialist-2746b5a1-7f36-4a17-bae7-068bf09aaccf?utm_source=github&utm_medium=list&utm_campaign=dallas) |
