@@ -1,10 +1,10 @@
 # Dallas Jobs
 
-Open roles in Dallas: 48 roles at 30 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-26.
+Open roles in Dallas: 46 roles at 29 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=dallas).** Last updated 2026-11-27.
 
-All 48 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
+All 46 are listed below. Browse the newest on [warmada.com/jobs/dallas](https://warmada.com/jobs/dallas?utm_source=github&utm_medium=list&utm_campaign=dallas).
 
-**By role:** Software Engineering (5) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (8) · Customer Success (2) · Operations (5) · Finance (4) · HR & Recruiting (2) · Legal & Compliance (1) · Other (18)
+**By role:** Software Engineering (5) · Hardware Engineering (1) · Design (1) · Marketing (1) · Sales (8) · Customer Success (2) · Operations (5) · Finance (4) · HR & Recruiting (2) · Legal & Compliance (1) · Other (16)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Dallas. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -90,7 +90,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=dallas) | Senior Counsel, Commercial Leasing and Real Estate | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX | Nov 17 | [Apply](https://coreweave.com/careers/job?4728693006&board=coreweave&gh_jid=4728693006) · [Find the hiring manager](https://warmada.com/job/coreweave-senior-counsel-commercial-leasing-and-real-estate-f30090a7-9d6d-4b85-b19c-c61683f9bd8c?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 
-## Other (18)
+## Other (16)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -110,5 +110,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Oscar Health](https://warmada.com/companies/oscar-health?utm_source=github&utm_medium=list&utm_campaign=dallas) | Senior Manager, Network Optimization | Dallas, Texas, United States | Nov 17 | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8397485) · [Find the hiring manager](https://warmada.com/job/oscar-health-senior-manager-network-optimization-1ea5a65d-da73-450b-ab8b-6a9c85a928cc?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=dallas) | Traveling Technician - Site Solutions | Dallas, TX (NE) | Nov 17 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8386757) · [Find the hiring manager](https://warmada.com/job/equipmentshare-traveling-technician-site-solutions-87e4c572-2d36-423c-b543-c314ce68b18d?utm_source=github&utm_medium=list&utm_campaign=dallas) |
 | [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=dallas) | Mechanical Design Leader - Mission Critical | Austin, Texas, United States; Chicago, Illinois, United States; Cleveland, Ohio, United States; Dallas, Texas, United States; Denver, Colorado, United States; Houston, Texas, United States; Los Angeles, California, United States; Minneapolis, Minnesota, United States; Orlando, Florida, United States; Overland Park, Kansas, United States; Phoenix, Arizona, United States; Portland, Oregon, United States; San Diego, California, United States; San Francisco, California, United States; Seattle, Washington, United States; Washington, D.C. | Nov 16 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5483215008) · [Find the hiring manager](https://warmada.com/job/dlr-group-mechanical-design-leader-mission-critical-44ab3efd-49c8-4a7d-a919-30f44767e78d?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [Flexport](https://warmada.com/companies/flexport?utm_source=github&utm_medium=list&utm_campaign=dallas) | Trade Advisory Associate | Atlanta, Georgia, United States; Dallas, Texas, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8384698) · [Find the hiring manager](https://warmada.com/job/flexport-trade-advisory-associate-0d4087aa-1594-46a8-b4a1-aca185c4ffbf?utm_source=github&utm_medium=list&utm_campaign=dallas) |
-| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=dallas) | Heavy Equipment Shop Technician (Mechanic) | Dallas, TX | Nov 13 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8382828) · [Find the hiring manager](https://warmada.com/job/equipmentshare-heavy-equipment-shop-technician-mechanic-8f7ea82a-ba7a-481c-90cb-548f1745116a?utm_source=github&utm_medium=list&utm_campaign=dallas) |
